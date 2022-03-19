@@ -1772,6 +1772,7 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable logo
 drawable material_cursor_drawable
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
@@ -2478,6 +2479,9 @@ string icon_content_description
 string in_progress
 string indeterminate
 string item_view_role_description
+string login
+string login_title
+string logo_content_description
 string material_clock_display_divider
 string material_clock_toggle_content_description
 string material_hour_selection

@@ -2,4 +2,7 @@
     <string name="app_name">BarcodeScanner</string>
     <string name="title_activity_home_view">HomeView</string>
     <string name="title_activity_login_view">LoginView</string>
+    <string name="login_title">Kindly log in to use the app</string>
+    <string name="login">Login</string>
+    <string name="logo_content_description">App Logo</string>
 </resources>

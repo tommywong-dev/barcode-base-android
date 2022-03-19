@@ -9,6 +9,7 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.google.accompanist.permissions.ExperimentalPermissionsApi
+import com.jetpack.barcodescanner.constants.Routes
 
 import com.jetpack.barcodescanner.ui.theme.BarcodeScannerTheme
 
