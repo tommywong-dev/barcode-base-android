@@ -1,4 +1,4 @@
-package com.jetpack.barcodescanner
+package dev.tommywong.barcodebase
 
 import org.junit.Test
 

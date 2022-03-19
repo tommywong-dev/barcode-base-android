@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1079503993145",
+    "project_id": "barcode-base",
+    "storage_bucket": "barcode-base.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079503993145:android:1aa0f2b711f4ae032810e8",
+        "android_client_info": {
+          "package_name": "dev.tommywong.barcodebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079503993145-3bl9vpv9qv1s5b2ve64ivipvgi5rb9dr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.tommywong.barcodebase",
+            "certificate_hash": "7404719c58b31d90126314ed3f9046db0c638169"
+          }
+        },
+        {
+          "client_id": "1079503993145-hcmkbhup00o59dekpelhos9igk7fjbd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChdYbAm5xuBHkCnbVYjY6bzFomudbas-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079503993145-hcmkbhup00o59dekpelhos9igk7fjbd2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079503993145-ss1mji3bsccrh6i7sd20q5po78o4urro.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.tommywong.barcodebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

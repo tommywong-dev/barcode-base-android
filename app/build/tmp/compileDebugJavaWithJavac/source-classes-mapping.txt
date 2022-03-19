@@ -1,2 +1,2 @@
-com/jetpack/barcodescanner/BuildConfig.java
- com.jetpack.barcodescanner.BuildConfig
+dev/tommywong/barcodebase/BuildConfig.java
+ dev.tommywong.barcodebase.BuildConfig

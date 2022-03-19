@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1079503993145-hcmkbhup00o59dekpelhos9igk7fjbd2.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1079503993145</string>
+    <string name="google_api_key" translatable="false">AIzaSyChdYbAm5xuBHkCnbVYjY6bzFomudbas-U</string>
+    <string name="google_app_id" translatable="false">1:1079503993145:android:1aa0f2b711f4ae032810e8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyChdYbAm5xuBHkCnbVYjY6bzFomudbas-U</string>
+    <string name="google_storage_bucket" translatable="false">barcode-base.appspot.com</string>
+    <string name="project_id" translatable="false">barcode-base</string>
+</resources>

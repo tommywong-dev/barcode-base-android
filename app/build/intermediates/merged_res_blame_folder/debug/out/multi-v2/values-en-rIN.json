@@ -4,24 +4,7 @@
             "outputFile": "/Users/tommywong/AndroidStudioProjects/BarcodeBase/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml",
             "map": [
                 {
-                    "source": "/Users/tommywong/.gradle/caches/transforms-3/fedbabd8d7833029dba62cbd77807c32/transformed/jetified-ui-1.0.3/res/values-en-rIN/values-en-rIN.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,197,279,373,455,555,644,728,793,857,930,996",
-                        "endColumns": "91,81,93,81,99,88,83,64,63,72,65,120",
-                        "endOffsets": "192,274,368,450,550,639,723,788,852,925,991,1112"
-                    },
-                    "to": {
-                        "startLines": "29,30,31,32,33,34,35,36,37,39,41,42",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "2762,2854,2936,3030,3112,3212,3301,3385,3450,3597,3771,3837",
-                        "endColumns": "91,81,93,81,99,88,83,64,63,72,65,120",
-                        "endOffsets": "2849,2931,3025,3107,3207,3296,3380,3445,3509,3665,3832,3953"
-                    }
-                },
-                {
-                    "source": "/Users/tommywong/.gradle/caches/transforms-3/f4fb29fa3c718b5415582623ca386f7c/transformed/appcompat-1.4.0/res/values-en-rIN/values-en-rIN.xml",
+                    "source": "/Users/tommywong/.gradle/caches/transforms-3/7d49f0e1bf12c27b974cc0e838ddc81b/transformed/appcompat-1.4.0/res/values-en-rIN/values-en-rIN.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "/Users/tommywong/.gradle/caches/transforms-3/acb209d88ce91ed7fb4d20f7c42190d1/transformed/core-1.7.0/res/values-en-rIN/values-en-rIN.xml",
+                    "source": "/Users/tommywong/.gradle/caches/transforms-3/52ef5441ac46f6160a7c5f164a508fc9/transformed/jetified-ui-1.0.3/res/values-en-rIN/values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,197,279,373,455,555,644,728,793,857,930,996",
+                        "endColumns": "91,81,93,81,99,88,83,64,63,72,65,120",
+                        "endOffsets": "192,274,368,450,550,639,723,788,852,925,991,1112"
+                    },
+                    "to": {
+                        "startLines": "29,30,31,32,33,34,35,36,37,39,41,42",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2762,2854,2936,3030,3112,3212,3301,3385,3450,3597,3771,3837",
+                        "endColumns": "91,81,93,81,99,88,83,64,63,72,65,120",
+                        "endOffsets": "2849,2931,3025,3107,3207,3296,3380,3445,3509,3665,3832,3953"
+                    }
+                },
+                {
+                    "source": "/Users/tommywong/.gradle/caches/transforms-3/91c777de3e257a2a5e019b88c47bcd45/transformed/core-1.7.0/res/values-en-rIN/values-en-rIN.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.jetpack.barcodescanner",
+  "applicationId": "dev.tommywong.barcodebase",
   "variantName": "debug",
   "elements": [
     {
